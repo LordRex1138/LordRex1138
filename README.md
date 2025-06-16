@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 
+I'm new here and just starting my Cyber journey. 
 
-<!--
-**LordRex1138/LordRex1138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ABOUT ME:
 
-Here are some ideas to get you started:
+I'm an Apple Ceritfied Mac Technician with some Windows knowledge. I also have an extensive background in the Film, TV, and Music Industries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+INTERESTS:
+
+Computer Science, Programing, Privacy, Cyber security, Networking, Raspberry Pi, Music and Film production, Animation.
+
+CURRENTLY LEARNING:
+- PYTHON
+- LINUX
+- FRENCH
+
+Would also like to get into 3D printing.
+
+No current projects yet. 
+
+PLEASE STANDBY
