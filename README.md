@@ -7,7 +7,7 @@ I'm an Apple Ceritfied Mac Technician with some Windows knowledge. I also have a
 
 INTERESTS:
 
-Computer Science, Programing, Privacy, Cyber security, Networking, Raspberry Pi, Music and Film production, Animation.
+Computer Science, Programing, Privacy, Cyber security, Networking, Raspberry Pi, Music and Film production, Animation, Feline enthusiast.
 
 CURRENTLY LEARNING:
 - PYTHON
